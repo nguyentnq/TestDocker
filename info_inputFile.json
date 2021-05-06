@@ -1,0 +1,14 @@
+{
+    "dataFile": [
+	    {
+	        "path": "./data/input/dataPoints.csv"
+	    }
+    ],
+
+	"outputFolder": [
+	    {
+	        "path": "./data/output/"
+	    }
+    ]
+    
+}
